@@ -1,0 +1,3 @@
+source: kaggel
+type: synthetic dataset
+link: https://www.kaggle.com/datasets/meruvakodandasuraj/global-tech-jobs-and-salaries
